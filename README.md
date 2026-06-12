@@ -84,10 +84,17 @@ ECBD-FernandaPachecoBanda/
 └── README.md
 
 ## Capturas o imágenes de los análisis 
+<img width="760" height="638" alt="Captura de pantalla 2026-05-21 175322" src="https://github.com/user-attachments/assets/0612ca1e-1f38-4bed-94f5-6f98c94dd347" />
 
+<img width="1091" height="739" alt="Captura de pantalla 2026-05-21 175406" src="https://github.com/user-attachments/assets/91058afe-dbed-4e05-a0a6-86564e2e1810" />
+
+<img width="955" height="633" alt="Captura de pantalla 2026-05-21 175444" src="https://github.com/user-attachments/assets/8a870583-fc85-422d-93f2-c6ce090ac529" />
+
+<img width="1094" height="628" alt="Captura de pantalla 2026-05-21 175516" src="https://github.com/user-attachments/assets/d1ee72b0-fccb-4a7f-90c0-5401921179df" />
+
+<img width="923" height="525" alt="Captura de pantalla 2026-06-04 221205" src="https://github.com/user-attachments/assets/24741089-dd93-40ef-aafc-689b57a90731" />
 
 <img width="748" height="571" alt="Captura de pantalla 2026-06-04 221253" src="https://github.com/user-attachments/assets/66a72c86-bc85-40c2-9f76-da798ec41dd7" />
-
 
 ## Conclusiones generales
 
